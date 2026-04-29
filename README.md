@@ -19,7 +19,6 @@ Python developer focused on AI assistants, LLM integrations, and workflow automa
 
 ## Featured projects
 
-- [hotel_ai_assistant](https://github.com/natavegman/hotel_ai_assistant) - Production-style AI assistant for hotel operations with RAG + tools orchestration.
 - [Smart-Style-Bot](https://github.com/natavegman/Smart-Style-Bot) - AI assistant for style recommendations and personalized outfit guidance.
 - [Vessels-monitor](https://github.com/natavegman/Vessels-monitor) - Monitoring and analytics service for vessel operations and status tracking.
 - [MyFamilyTree](https://github.com/natavegman/MyFamilyTree) - FastAPI genealogy backend with GEDCOM import and document links.
