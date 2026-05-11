@@ -38,7 +38,7 @@
 ### 📫 Как со мной связаться
 - **Email:** [vegmannata@gmail.com](mailto:vegmannata@gmail.com)
 - **GitHub:** [@natavegman](https://github.com/natavegman)
-- **Telegram:** [@natavegman](https://t.me/natavegman)
+- **Telegram:** [@natroot](https://t.me/natroot)
 
 ---
 
