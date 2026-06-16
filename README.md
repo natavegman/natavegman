@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Natalia 👋</h1>
 
-<h3 align="center">AI Automation Consultant & IT Architect · Saint Petersburg, Russia</h3>
+<h3 align="center">AI Automation Consultant & IT Architect</h3>
 
 <p align="center">
   <a href="mailto:vegmannata@gmail.com">vegmannata@gmail.com</a> ·

@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Я Наталья 👋</h1>
 
-<h3 align="center">AI Automation Consultant & IT Architect · Санкт-Петербург</h3>
+<h3 align="center">AI Automation Consultant & IT Architect</h3>
 
 <p align="center">
   <a href="mailto:vegmannata@gmail.com">vegmannata@gmail.com</a> ·
