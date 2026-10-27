@@ -3,7 +3,7 @@
 <h3 align="center">AI Architect: systems for business and for archival research</h3>
 
 <p align="center">
-  <a href="mailto:vegmannata@gmail.com">vegmannata@gmail.com</a>,
+  <a href="mailto:nata@vegman.dev">nata@vegman.dev</a>,
   <a href="https://t.me/natroot">Telegram @natroot</a>,
   <a href="https://vegman.dev">vegman.dev</a>
 </p>
