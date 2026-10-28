@@ -16,7 +16,7 @@
 
 I design and deploy production AI systems. Behind that are 19 years of hands-on IT: from running a 40-person IT department at one of Russia's largest shipping companies to RAG pipelines, multi-agent architectures and enterprise data warehouses for today's clients. I architect the system, write the code, deploy it and own the outcome.
 
-My second field is genealogy. I research families in archives across Russia and Europe: St Petersburg, Ryazan and Penza, federal archives, the Arolsen Archives and German civil registers, Estonian and Jewish archives. Archive work demands what good systems demand: every conclusion backed by a source, every negative result recorded. So I build AI tooling for it, too.
+My second field is genealogy. I research families in archives across Russia and Europe: St Petersburg, Ryazan and Penza, federal archives, the Arolsen Archives and German civil registers, Estonian archives, Jewish databases including Yad Vashem. Archive work demands what good systems demand: every conclusion backed by a source, every negative result recorded. So I build AI tooling for it, too.
 
 ---
 
@@ -33,8 +33,8 @@ My second field is genealogy. I research families in archives across Russia and 
 **Genealogy**
 
 - **Russian archives:** parish registers and revision lists in St Petersburg, Ryazan and Penza; requests to federal archives
-- **Europe:** the Arolsen Archives and German civil registers for people deported to Germany, Estonian archives, Jewish archival collections
-- **Archival tooling:** OCR of handwritten parish registers, bulk download of paid archive files, a registry of 300+ online sources, name-variant tables for German transliteration
+- **Europe:** the Arolsen Archives and German civil registers for people deported to Germany, Estonian archives, Jewish databases including Yad Vashem
+- **Archival tooling:** OCR of handwritten parish registers, a registry of 300+ online sources, name-variant tables for German transliteration
 - **Evidence layer:** a tree of 2,400+ people where every fact carries a source, a verbatim quote and a proof status
 
 ---
